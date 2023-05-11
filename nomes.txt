@@ -1,1 +1,6 @@
 Apredendo Git e GitHub.
+Estrutura de Dados em linguagem de programação C.
+Modelagem de banco de Dados.
+Engenharia de Software.
+
+
